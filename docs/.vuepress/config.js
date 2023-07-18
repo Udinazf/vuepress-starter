@@ -12,6 +12,10 @@ export default defineUserConfig({
         text: '首页',
         link: '/',
       },
+      {
+        text: '部署',
+        link: '/deploy-to-gitpages.html',
+      },
     ],
   }),
   base: '/vuepress-starter/',
