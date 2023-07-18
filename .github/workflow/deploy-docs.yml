@@ -5,7 +5,7 @@ on:
       # 确保这是你正在使用的分支名称
       - main
 jobs:
-  deploy-gh-pages:
+  deploy-docs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
