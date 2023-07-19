@@ -9,3 +9,8 @@ blog/.vuepress/.temp/
 blog/.vuepress/dist/
 
 .history/
+
+node_modules/
+mydemo/.vuepress/.cache/
+mydemo/.vuepress/.temp/
+mydemo/.vuepress/dist/
